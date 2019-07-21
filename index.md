@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: 4thewin.netlify.com/sobre
     link_text: Sobre
-  logo: ''
+  logo: "/uploads/2019/07/21/logo-4tw.png"
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
